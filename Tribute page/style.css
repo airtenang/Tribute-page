@@ -56,7 +56,7 @@ a:hover {
   padding: 10px;
   border-radius: 5px;
   background-image: linear-gradient(90deg, rgba(63, 41, 41, 0.6), rgba(76, 84, 92, 0.6)
-  ), url("./full-bloom.png");
+  ), url("full-bloom.png");
 }
 
 @media (max-width: 460px) {
